@@ -1,1 +1,5 @@
-HI Bhavani2
+mkdir bhavani
+
+cd bhavani
+
+touch vishrudh vamika
